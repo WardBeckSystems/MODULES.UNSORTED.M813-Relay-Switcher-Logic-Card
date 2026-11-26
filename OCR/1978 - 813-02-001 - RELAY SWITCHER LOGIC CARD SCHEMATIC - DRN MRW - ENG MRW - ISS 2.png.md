@@ -40,7 +40,7 @@ Wiki page: [M813](../../../../PAGES/M813.md)
 - **Title block:** (332, 9)–(432, 57) mm: 4153 · 48 · ISSUE IDATE · REVISION · WBS WARD-BECK SYSTEMS · DRM: Mrw · M813 · ENG MrW · RELAY SWITCHER LOGIC CARD · SCHEMATIC · SCALE · ISSUE · 813 - 02-001
 - **Wiring (first pass):** 107 connected wire groups from 833 runs; labelled ends: 1047 mm → 0/33; 874 mm → CD 40701; 327 mm → Cris, crio, 14746 4k7; 251 mm → 74204; 169 mm → crs, CRA, ces, CD 40701
 
-Every curve, box, word and wire group: [1978 - 813-02-001 - RELAY SWITCHER LOGIC CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (traced).json](../SCHEMATICS/1978%20-%20813-02-001%20-%20RELAY%20SWITCHER%20LOGIC%20CARD%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%202%20(traced).json) (the CAD file: `1978 - 813-02-001 - RELAY SWITCHER LOGIC CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 813-02-001 - RELAY SWITCHER LOGIC CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (traced).json](../SCHEMATICS/1978%20-%20813-02-001%20-%20RELAY%20SWITCHER%20LOGIC%20CARD%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1978 - 813-02-001 - RELAY SWITCHER LOGIC CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (traced).dxf`).
 
 ## Full text
 
